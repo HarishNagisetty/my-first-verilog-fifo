@@ -2,3 +2,4 @@
 *.a
 *.d
 sim/obj_dir/
+*.sublime-workspace
